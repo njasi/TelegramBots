@@ -1,0 +1,5 @@
+# Ignore Mac system files
+.DS_store
+
+# ignore all text files (bot tokens and data)
+*.txt
