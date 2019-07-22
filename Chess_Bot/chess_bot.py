@@ -1,3 +1,7 @@
+##############################
+# This is a work in progress #
+##############################
+
 import json, time, urllib, requests, botbase
 from PIL import Image
 from random import randint
